@@ -30,6 +30,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 //This comment is being added to test the modified changes that need to be commited and pushed to GitHub.
+//Change 2
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
